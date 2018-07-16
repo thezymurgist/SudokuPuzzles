@@ -1,10 +1,10 @@
 """
 This program generates sudoku boards based on the user's
-selected difficulty and varifies whether or not the user has solved it correctly.
+selected difficulty and verifies whether or not the user has solved it correctly.
 These boards will be stored in a file to be accessed by a program that
 allows the user to play the game.
 
--Zym - January 2018
+- Zach - January 2018
 """
 from random import shuffle
 from random import choice
